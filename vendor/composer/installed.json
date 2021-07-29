@@ -1,0 +1,125 @@
+[
+    {
+        "name": "koolreport/bootstrap4",
+        "version": "1.5.0",
+        "version_normalized": "1.5.0.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/koolreport/bootstrap4.git",
+            "reference": "c511346b60cd4fa7df07f30b8dfcd7651b5b2676"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/koolreport/bootstrap4/zipball/c511346b60cd4fa7df07f30b8dfcd7651b5b2676",
+            "reference": "c511346b60cd4fa7df07f30b8dfcd7651b5b2676",
+            "shasum": ""
+        },
+        "time": "2019-10-05T14:39:15+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "description": "Bootstrap 4 Theme For KoolReport",
+        "homepage": "https://www.koolreport.com",
+        "keywords": [
+            "PHP Reporting Framework",
+            "mysql reporting tools",
+            "php",
+            "php reprting tools",
+            "report theme"
+        ]
+    },
+    {
+        "name": "koolreport/core",
+        "version": "5.1.0",
+        "version_normalized": "5.1.0.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/koolreport/core.git",
+            "reference": "fc112ec63456af385eff563608aefacea7df85eb"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/koolreport/core/zipball/fc112ec63456af385eff563608aefacea7df85eb",
+            "reference": "fc112ec63456af385eff563608aefacea7df85eb",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.4"
+        },
+        "time": "2021-07-07T08:42:39+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "files": [
+                "autoload.php"
+            ]
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "KoolPHP Inc",
+                "homepage": "https://www.koolphp.net"
+            }
+        ],
+        "description": "An Open Source PHP Reporting Framework for easier and faster report delivery.",
+        "homepage": "https://www.koolreport.com",
+        "keywords": [
+            "PHP Reporting Framework",
+            "PHP Reporting Tools",
+            "charts and graphs",
+            "data processing",
+            "data visualization"
+        ]
+    },
+    {
+        "name": "koolreport/examples",
+        "version": "1.1.1",
+        "version_normalized": "1.1.1.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/koolreport/examples.git",
+            "reference": "b14a57965fe2ee9d49bc6f3a48ad791479c819a6"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/koolreport/examples/zipball/b14a57965fe2ee9d49bc6f3a48ad791479c819a6",
+            "reference": "b14a57965fe2ee9d49bc6f3a48ad791479c819a6",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.4"
+        },
+        "require-dev": {
+            "koolreport/core": "^3"
+        },
+        "time": "2019-06-12T07:28:03+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "KoolPHP Inc",
+                "homepage": "https://www.koolphp.net"
+            }
+        ],
+        "description": "Examples for KoolReport Framework.",
+        "homepage": "https://www.koolreport.com",
+        "keywords": [
+            "KoolReport php example",
+            "PHP Reporting Framework",
+            "PHP Reporting Tools",
+            "charts and graphs",
+            "data processing",
+            "data visualization"
+        ]
+    }
+]

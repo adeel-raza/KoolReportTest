@@ -1,0 +1,11 @@
+{
+    "name": "essential-reporting-learndash",
+    "type": "library",
+    "require": {
+        "koolreport/core": "5.1",
+        "koolreport/examples": "1.1.1",
+        "koolreport/bootstrap4": "^1.5"
+    },
+    "license": "MIT",
+    "minimum-stability": "stable"
+}
